@@ -1,6 +1,17 @@
 {
-  "latest": "0.3.0",
+  "latest": "0.4.0",
   "builds": [
+    {
+      "version": "0.4.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.4.0/shard-0.4.0.jar",
+      "sha512": "c4058524568ff2fc266af76282f10b16dcb4a5e3313513681cc24fafc47cba8bd80599f4bf6abd3ca00825f75e4f159c11eea752e2276664e2e82135d6dab1b3",
+      "changelog": "## 0.4.0\n- New menu: rail with search, favorites and six categories, a list or grid where full module names always fit, and a detail column with live previews. Search finds settings too.\n- Sharp text at any size and one icon set (Lucide).\n- HUD editor: snapping and guides, multi-select, align, 1-pixel nudges, undo/redo, grid, layout presets, settings next to the HUD.\n- New HUD: Target HUD, Combo, Reach, Fight Recap, Cooldowns, Compass, Speed, TPS; kills, K/D and streaks in Session; better FPS, Ping, Keystrokes, Armor, Totem Counter, Item Counter and Effects.\n- Low Fire for screen, ground fire and burning entities; Crosshair editor with share codes; Shield while blocking and holding; Crystal Visuals; Anchor Glow.\n- GUI Scales (inventory at its own scale, hotbar, scoreboard, tab list, chat), Display (borderless fullscreen, FPS caps), Block Outline, Low Health Warning, Clean Screen, Weather and Time, Sounds, Chat.\n- Quick setup: Crystal PvP Pro, Minimal or Recording in one click.\n- Faster HUD (0.31 to 0.18 ms per frame). 0.3.0 configs load unchanged.",
+      "releasedAt": "2026-10-08T20:07:26Z"
+    },
     {
       "version": "0.3.0",
       "minecraft": [
