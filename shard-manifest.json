@@ -1,9 +1,22 @@
 {
-  "latest": "0.2.0",
+  "latest": "0.3.0",
   "builds": [
     {
+      "version": "0.3.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.3.0/shard-0.3.0.jar",
+      "sha512": "3cce6f7f5183aeac0e2b029e0d5f541b81d94e22e4b515052674efc128dd7a3f4d4ad1d1493d76ed7925586e678edc80a24bfd530a5fc23cca519ee62a495287",
+      "changelog": "## 0.3.0\n- Smooth text: Shard's settings page and HUD use Inter, the launcher's font (Vanilla font is one click away).\n- The settings page looks the same at every GUI scale, with roomier spacing, anti-aliased corners and an Interface size slider.\n- HUD styles: Card, Minimal or Outlined, colours, background opacity, radius, padding, shadow, alignment and label text, with global defaults and a HUD scale.\n- Settings: Appearance, Keybinds with conflict warnings, profile descriptions, a wildcard server-rule editor, Export/Import and Reset all.\n- New options: Crosshair hit marker and dynamic gap, Nametags scale and background, Hit Color flash duration, Low Fire preview, Crystal Optimizer highlight colour, Totem Pop message format, Explosion Optimizer particle list, Zoom scroll and cinematic camera, Keystrokes layout, Item Counter custom items.\n- 0.2.0 configs migrate automatically.",
+      "releasedAt": "2026-10-07T00:00:00Z"
+    },
+    {
       "version": "0.2.0",
-      "minecraft": ["1.21.11"],
+      "minecraft": [
+        "1.21.11"
+      ],
       "fabricLoader": ">=0.19.0",
       "url": "https://github.com/OhMarker/shard-client/releases/download/v0.2.0/shard-0.2.0.jar",
       "sha512": "288ac4e512fbbab2e7ba5ddd29931b7b5a3c4a241467a583b688799bb13867f1ae3084f873a4c42b89d59bb1cc450e145da7b46e2a97eecdde823e66451318f0",
