@@ -1,6 +1,17 @@
 {
-  "latest": "0.4.0",
+  "latest": "0.5.0",
   "builds": [
+    {
+      "version": "0.5.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.5.0/shard-0.5.0.jar",
+      "sha512": "ac37c66c26a40093ef73c622e0921cc25a56817aac678b96dc00b7b4e34735fe190affc97a22f34564061b4cd33f4842f223891de8dd1cfda63cf060ad542c19",
+      "changelog": "## 0.5.0\n- The cape you equip in Shard Launcher now shows in-game on your own player, in third person and on your elytra (switchable).\n- High-resolution capes are drawn smooth and sharp, without flicker.\n- Only you see it; nothing is sent to the server.",
+      "releasedAt": "2026-10-08T20:56:55Z"
+    },
     {
       "version": "0.4.0",
       "minecraft": [
