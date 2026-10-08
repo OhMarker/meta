@@ -1,6 +1,17 @@
 {
-  "latest": "0.5.0",
+  "latest": "0.6.0",
   "builds": [
+    {
+      "version": "0.6.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.6.0/shard-0.6.0.jar",
+      "sha512": "1de65385ae0536075cf621ebf3537d3f8af0998ea2b8057da3c683533661af7b1fab3425d8a92498d5df090c7d1809584519139bbe0fee7da2b68187b4d94400",
+      "changelog": "## 0.6.0\n- Every Shard player now sees the capes other Shard players equipped.\n- Earn 10 Shard tokens for every 10 minutes you play and spend them on capes in Shard Launcher 0.3.0.\n- Sign-in uses Mojang's own check; your account details never reach Shard.",
+      "releasedAt": "2026-10-08T21:53:05Z"
+    },
     {
       "version": "0.5.0",
       "minecraft": [

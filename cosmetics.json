@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T00:00:00Z",
+  "updatedAt": "2026-10-08T23:00:00Z",
   "cosmetics": [
     {
       "id": "cape-ohmarker",
@@ -11,8 +11,8 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-ohmarker.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "A ringed moon over a violet night sky, with OHMARKER in glowing letters. 4K texture.",
-      "availability": "free",
+      "description": "A ringed moon over a violet night sky, with OHMARKER in glowing letters. 4K texture. 1000 Shard tokens.",
+      "availability": "locked",
       "tags": [
         "launch",
         "4k"
