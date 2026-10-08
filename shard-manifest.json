@@ -1,6 +1,17 @@
 {
-  "latest": "0.6.0",
+  "latest": "0.6.1",
   "builds": [
+    {
+      "version": "0.6.1",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.6.1/shard-0.6.1.jar",
+      "sha512": "1b0743b009d81b4e0929df7a8535706950fc4480f5973efac198bca1bb8d4c2786c8a273f2a28742f83e9f0ee5131a7ecaf42d5005e6e3c095f6280c21db5103",
+      "changelog": "## 0.6.1\n- Fixed signing in to Shard: tokens and everyone's capes work again.",
+      "releasedAt": "2026-10-08T22:30:15Z"
+    },
     {
       "version": "0.6.0",
       "minecraft": [
