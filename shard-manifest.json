@@ -31,7 +31,7 @@
       "fabricLoader": ">=0.19.0",
       "url": "https://github.com/OhMarker/shard-client/releases/download/v0.2.0/shard-0.2.0.jar",
       "sha512": "288ac4e512fbbab2e7ba5ddd29931b7b5a3c4a241467a583b688799bb13867f1ae3084f873a4c42b89d59bb1cc450e145da7b46e2a97eecdde823e66451318f0",
-      "changelog": "## 0.2.0\n- Lunar-style settings page: sidebar, mod cards with toggle switches, sliding settings panel, dropdowns, colour picker, keybind capture, keyboard navigation.\n- Crystal Optimizer and Anchor Optimizer: instant client-side feedback, server stays authoritative.\n- Explosion Optimizer, Totem Pop Tweaks, No Death Animation, Hit Color, Low Fire, Low Shield, Fullbright, Hitboxes, Nametags, Crosshair.\n- Per-server rules (\"Disable on <server>\") and automatic conflict detection for installed mods.",
+      "changelog": "## 0.2.0\n- Settings page: sidebar, mod cards with toggle switches, sliding settings panel, dropdowns, colour picker, keybind capture, keyboard navigation.\n- Crystal Optimizer and Anchor Optimizer: instant client-side feedback, server stays authoritative.\n- Explosion Optimizer, Totem Pop Tweaks, No Death Animation, Hit Color, Low Fire, Low Shield, Fullbright, Hitboxes, Nametags, Crosshair.\n- Per-server rules (\"Disable on <server>\") and automatic conflict detection for installed mods.",
       "releasedAt": "2026-10-08T05:01:46Z"
     }
   ]

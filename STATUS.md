@@ -9,8 +9,11 @@ Last updated 2026-10-08 (client 0.4.0 is latest).
   sha512 of each jar in `../shard-client/build/libs/`. Each `url` points at a shard-client
   release asset (v0.4.0, v0.3.0, v0.2.0), which must be created first (see ../shard-client/STATUS.md).
   0.1.0 was never published, so it is not listed.
-- `bundled-mods.json` and `cosmetics.json` are exact copies of the launcher's shipped files
-  (`src/main/mods/bundled-mods.json`, `resources/cosmetics/cosmetics.json`).
+- `bundled-mods.json` is an exact copy of the launcher's `src/main/mods/bundled-mods.json`.
+- `cosmetics.json` matches the launcher's `resources/cosmetics/cosmetics.json` (only the OhMarker
+  cape since launcher 0.2.0), except that its texture and preview URLs point at the copies in
+  `cosmetics/` here, so launchers that do not bundle the cape (0.1.0) still get it. Rebuild the
+  cape with `python scripts/build-ohmarker-cape.py` in shard-launcher and copy both PNGs here.
 
 ## Publish (owner runs once, from this folder, after the shard-client release exists)
 
