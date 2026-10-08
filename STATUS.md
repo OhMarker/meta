@@ -2,8 +2,8 @@
 
 Last updated 2026-10-07.
 
-- Prepared locally by Claude; NOT on GitHub yet. Claude's sandbox is not allowed to create public
-  repositories, so the owner runs the publish step below. The launcher reads these files from
+- Published 2026-10-08 at https://github.com/OhMarker/meta; the raw manifest reports `latest`
+  0.3.0. Later updates are a normal commit and `git push`. The launcher reads these files from
   `https://raw.githubusercontent.com/OhMarker/meta/main/<file>` (see CONTRACT.md in shard-launcher).
 - `shard-manifest.json` lists client 0.3.0 (latest) and 0.2.0 for Minecraft 1.21.11 with the
   sha512 of each jar in `../shard-client/build/libs/`. Each `url` points at a shard-client
