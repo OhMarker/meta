@@ -1,6 +1,17 @@
 {
-  "latest": "0.6.1",
+  "latest": "0.7.0",
   "builds": [
+    {
+      "version": "0.7.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.7.0/shard-0.7.0.jar",
+      "sha512": "8f55f7b76f5265c201e1f9a0523db3623c1b3d47cb31d02bc31f6f0fdfc01d4782a5436008d7e019c9066d13ab94c85a0d4b3cc3386c21e1aa86e975cdf6de34",
+      "changelog": "## 0.7.0\n- New compact mod menu with tabs, category tabs and mod tiles; smooth scrolling and sharper text.\n- Removed Target HUD and Nametags; Cosmetics are always on.\n- New fire texture, shield opacity and tint, armour hit colour, Small Items, totem animation size.\n- Pixel-perfect crosshair with new styles, Sky colours, styled hitboxes, smoother zoom, Entity Optimizer.",
+      "releasedAt": "2026-10-09T00:13:24Z"
+    },
     {
       "version": "0.6.1",
       "minecraft": [
