@@ -1,6 +1,17 @@
 {
-  "latest": "0.8.1",
+  "latest": "0.9.0",
   "builds": [
+    {
+      "version": "0.9.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.9.0/shard-0.9.0.jar",
+      "sha512": "549c1da7403f3bdbee2d13e70793d1ab3d4199b1510c3b034cea167a975cf1544b75f545cb30c4785cafe5746e4cc6682f55f61f6b2cafa19a37b6e571d6ca27",
+      "changelog": "## 0.9.0\n- OhMarker set: your shield shows the OhMarker shield art, and the OhMarker bandana is worn on your head. Every Shard player sees them.\n- Buy and equip them in Shard Launcher 0.5.0 (1000 each, or the set with the cape for 2000).",
+      "releasedAt": "2026-10-09T07:40:34Z"
+    },
     {
       "version": "0.8.1",
       "minecraft": [
