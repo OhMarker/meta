@@ -1,6 +1,17 @@
 {
-  "latest": "0.8.0",
+  "latest": "0.8.1",
   "builds": [
+    {
+      "version": "0.8.1",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.8.1/shard-0.8.1.jar",
+      "sha512": "a24c4ff2155c9bce69bfbd15f2757cb1a5485bb86d6a2fc2518c56f05147ee5b0a4d1e90de4edfbb059deae1d591d1472aa7366df506788c8306356fbe6d6132",
+      "changelog": "## 0.8.1\n- Account switcher: clear message when Shard Launcher was closed (launcher 0.4.1 stays in the tray while you play).\n- Credits read SwxyzX2.",
+      "releasedAt": "2026-10-09T06:17:17Z"
+    },
     {
       "version": "0.8.0",
       "minecraft": [
