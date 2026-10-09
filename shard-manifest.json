@@ -1,5 +1,5 @@
 {
-  "latest": "0.9.1",
+  "latest": "0.10.0",
   "builds": [
     {
       "version": "0.10.0",
@@ -9,7 +9,7 @@
       "fabricLoader": ">=0.19.0",
       "url": "https://github.com/OhMarker/shard-client/releases/download/v0.10.0/shard-0.10.0-mc1.21.11.jar",
       "sha512": "e6098c7d1bccb043e963d2731c1090f3e4b41dd33236b88f1864d9ce9a87200119eff99a2bf7509ebb9f256b7d0aac875a7f09712355a16c2b534393b55373c8",
-      "changelog": "## 0.10.0\n- Shard Client now runs on Minecraft 1.21.11, with every module, menu, HUD element and cosmetic from 1.21.11.",
+      "changelog": "## 0.10.0\n- Shard Client now runs on every Minecraft version from 1.21 to 26.3.\n- Fixed: the see-through flames on burning mobs (Low Fire) were invisible.",
       "releasedAt": "2026-10-09T18:08:07Z"
     },
     {
