@@ -4,6 +4,17 @@
     {
       "version": "0.10.0",
       "minecraft": [
+        "1.21.5"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.10.0/shard-0.10.0-mc1.21.5.jar",
+      "sha512": "4f7cb2ab7c4936aa395cca9d946e64d9ae33d84e639f4e24ae518ac9fedec2ea2b431f45e96cc79c6c98445e2ac326b1c04a79ff020e5491c655a813d228c390",
+      "changelog": "## 0.10.0\n- Shard Client now runs on Minecraft 1.21.5, with every module, menu, HUD element and cosmetic from 1.21.11.",
+      "releasedAt": "2026-10-09T15:59:36Z"
+    },
+    {
+      "version": "0.10.0",
+      "minecraft": [
         "1.21.6"
       ],
       "fabricLoader": ">=0.19.0",
