@@ -2,6 +2,28 @@
   "latest": "0.9.1",
   "builds": [
     {
+      "version": "0.10.0",
+      "minecraft": [
+        "1.21.10"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.10.0/shard-0.10.0-mc1.21.10.jar",
+      "sha512": "9b51703086a8e30605e47bfcff15572be3c4d167630ebaf8eb7436e016a7ff7696a32dba1d0335aa120dacbfaa81c2ab158685af48c2add485dc500886b9eaf5",
+      "changelog": "## 0.10.0\n- Shard Client now runs on Minecraft 1.21.10, with every module, menu, HUD element and cosmetic from 1.21.11.",
+      "releasedAt": "2026-10-09T11:29:07Z"
+    },
+    {
+      "version": "0.10.0",
+      "minecraft": [
+        "1.21.9"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.10.0/shard-0.10.0-mc1.21.9.jar",
+      "sha512": "f3c3f5879315b9831f2cedb45ca8d871870acc850f3749f2766294c0b8f2ac2e94c354b49d9d77ad77ae45db5a25121337cc05ae10e35598a4ffc6c29c062cfd",
+      "changelog": "## 0.10.0\n- Shard Client now runs on Minecraft 1.21.9, with every module, menu, HUD element and cosmetic from 1.21.11.",
+      "releasedAt": "2026-10-09T11:29:07Z"
+    },
+    {
       "version": "0.9.1",
       "minecraft": [
         "1.21.11"
