@@ -1,6 +1,17 @@
 {
-  "latest": "0.7.0",
+  "latest": "0.7.1",
   "builds": [
+    {
+      "version": "0.7.1",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.7.1/shard-0.7.1.jar",
+      "sha512": "b0829a9d27f19137630e0951f3f2f38c0cb1da14f07fab3f9c2364d116d59f0e561ee83c59751167c9c1c5033bd29288e5e37460259ef44c30367eedab02d12a",
+      "changelog": "## 0.7.1\n- Bigger mod menu with crisp text at every size.\n- Inventory scale: the player model stays inside its box.\n- Settings -> Window: borderless fullscreen and other window options.\n- Small Items stay visible when shrunk.",
+      "releasedAt": "2026-10-09T00:36:47Z"
+    },
     {
       "version": "0.7.0",
       "minecraft": [
