@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-09T07:30:00Z",
+  "updatedAt": "2026-10-09T12:00:00Z",
   "cosmetics": [
     {
       "id": "cape-ohmarker",
@@ -68,6 +68,107 @@
         "cape-ohmarker",
         "shield-ohmarker",
         "bandana-ohmarker"
+      ]
+    },
+    {
+      "id": "cape-shard",
+      "type": "cape",
+      "name": "Shard Cape",
+      "rarity": "legendary",
+      "textureUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/textures/cape-shard.png",
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-shard.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "A glowing cyan crystal over a dark field of floating shards, with shards on the inside and on elytra too. 4K texture. 1500 Shard tokens.",
+      "availability": "locked",
+      "tags": [
+        "shard",
+        "4k"
+      ]
+    },
+    {
+      "id": "cape-ocean",
+      "type": "cape",
+      "name": "Moonlit Tide Cape",
+      "rarity": "epic",
+      "textureUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/textures/cape-ocean.png",
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-ocean.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "A full moon over rolling waves in a light-blue frame, with a calm night sea on the inside and on elytra. 4K texture. 1000 Shard tokens.",
+      "availability": "locked",
+      "tags": [
+        "ocean",
+        "4k"
+      ]
+    },
+    {
+      "id": "cape-halloween",
+      "type": "cape",
+      "name": "Halloween Cape",
+      "rarity": "special",
+      "textureUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/textures/cape-halloween.png",
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-halloween.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "A glowing jack-o'-lantern under a full moon, with bats over a purple night sky. 4K texture. 1200 Shard tokens.",
+      "availability": "locked",
+      "tags": [
+        "halloween",
+        "special"
+      ]
+    },
+    {
+      "id": "shield-halloween",
+      "type": "shield",
+      "name": "Halloween Shield",
+      "rarity": "special",
+      "textureUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/textures/shield-halloween.png",
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/shield-halloween.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "Your shield in game becomes a dark iron frame with glowing rivets around a jack-o'-lantern under the moon. 1000 Shard tokens.",
+      "availability": "locked",
+      "tags": [
+        "halloween",
+        "special"
+      ]
+    },
+    {
+      "id": "bandana-halloween",
+      "type": "bandana",
+      "name": "Halloween Bandana",
+      "rarity": "special",
+      "textureUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/textures/bandana-halloween.png",
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/bandana-halloween.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "A purple night bandana with pumpkins, bats and crescent moons, tied over your head. 1000 Shard tokens.",
+      "availability": "locked",
+      "tags": [
+        "halloween",
+        "special"
+      ]
+    },
+    {
+      "id": "bundle-halloween",
+      "type": "bundle",
+      "name": "Halloween Set",
+      "rarity": "special",
+      "textureUrl": null,
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/bundle-halloween.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "The Halloween cape, shield and bandana for 2500 Shard tokens (3200 on their own).",
+      "availability": "locked",
+      "tags": [
+        "halloween",
+        "special"
+      ],
+      "items": [
+        "cape-halloween",
+        "shield-halloween",
+        "bandana-halloween"
       ]
     }
   ]
