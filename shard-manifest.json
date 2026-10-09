@@ -1,6 +1,17 @@
 {
-  "latest": "0.7.1",
+  "latest": "0.8.0",
   "builds": [
+    {
+      "version": "0.8.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.8.0/shard-0.8.0.jar",
+      "sha512": "e11a20c9e3c318896ecb9c5de2d64b19a17e76ded84b40c2ab7f735a277977aad4d2bf54608ccbb687ef0cb35969ddcde62f8cbc34591cabc3fa8b00d047b525",
+      "changelog": "## 0.8.0\n- New title screen and server list, with an in-game account switcher (needs Shard Launcher 0.4.0).\n- Much faster start-up and resource pack changes; no more second reload.\n- Sharp text at every HUD scale and menu size.\n- Profiles tab, logo, credits, working accent colour, fixed option switches.\n- Small Items now matches the Small Items mod by default.",
+      "releasedAt": "2026-10-09T06:02:47Z"
+    },
     {
       "version": "0.7.1",
       "minecraft": [
