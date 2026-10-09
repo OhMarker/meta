@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-10-09T07:30:00Z",
+  "cosmetics": [
+    {
+      "id": "cape-ohmarker",
+      "type": "cape",
+      "name": "OhMarker Cape",
+      "rarity": "mythic",
+      "textureUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/textures/cape-ohmarker.png",
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-ohmarker.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "A ringed moon over a violet night sky, with OHMARKER in glowing letters. 4K texture. 1000 Shard tokens.",
+      "availability": "locked",
+      "tags": [
+        "launch",
+        "4k"
+      ]
+    },
+    {
+      "id": "shield-ohmarker",
+      "type": "shield",
+      "name": "OhMarker Shield",
+      "rarity": "mythic",
+      "textureUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/textures/shield-ohmarker.png",
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/shield-ohmarker.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "Your shield in game becomes a riveted steel frame with the ringed OhMarker moon. 1000 Shard tokens.",
+      "availability": "locked",
+      "tags": [
+        "ohmarker-set",
+        "4k"
+      ]
+    },
+    {
+      "id": "bandana-ohmarker",
+      "type": "bandana",
+      "name": "OhMarker Bandana",
+      "rarity": "mythic",
+      "textureUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/textures/bandana-ohmarker.png",
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/bandana-ohmarker.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "A night-sky bandana with moons and stars, tied over your head. 1000 Shard tokens.",
+      "availability": "locked",
+      "tags": [
+        "ohmarker-set"
+      ]
+    },
+    {
+      "id": "bundle-ohmarker",
+      "type": "bundle",
+      "name": "OhMarker Set",
+      "rarity": "mythic",
+      "textureUrl": null,
+      "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/bundle-ohmarker.png",
+      "animated": false,
+      "author": "OhMarker",
+      "description": "The OhMarker cape, shield and bandana together for 2000 Shard tokens (1000 each on their own).",
+      "availability": "locked",
+      "tags": [
+        "ohmarker-set",
+        "bundle"
+      ],
+      "items": [
+        "cape-ohmarker",
+        "shield-ohmarker",
+        "bandana-ohmarker"
+      ]
+    }
+  ]
+}
