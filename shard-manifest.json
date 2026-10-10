@@ -1,6 +1,193 @@
 {
-  "latest": "0.13.1",
+  "latest": "0.14.0",
   "builds": [
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.11.jar",
+      "sha512": "ca222319fc9dbabe187dc979818e24b0328c194c5c22093b4ef6214770fc0c38540987583381ab91ee06c0763ff9bfbbbc21348fd98aa8983dcd78f061fe0960",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.jar",
+      "sha512": "983836e5bb4c28cbbce13a9090a4698529a53be71199b4cb8296038e5a8041873cad8f0c9fd4f9a17de444737af51f31eeee25e00421839c6339ec5dfdcf607f",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.1.jar",
+      "sha512": "20513930dba278b8ed36aabd7650a40e25a379e8d9ca5b0f2df627b9a25dae0212cce31dbbb3b3c1bb6eaef0a86c438c92eac484ae39e2669a893b0431b817c6",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.2.jar",
+      "sha512": "ba92801015bdcf6c01e1f778462016e784a1d1ea10ab8a266d98e1f11968cc5756751bcf8ce65f4c19b8a17585972ac95c13b1e322b6b9fc9971e45d85049b0f",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.3.jar",
+      "sha512": "d249034bc0523a0414397b4cda4df54db0878cd251996b2fc7d684582c82d54d6a6e6ba28b6e3c7dca9703e8adecae59b823a3f00f425715381ba16cde10c0dc",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.4"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.4.jar",
+      "sha512": "03991f308b0742f066d89c8e9194005e9828277d43c999e955ea194d6101c155882f98a0f2685b3285e7244db7263c5ef533aa5cd267f2153f3be6e42f592a65",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.5"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.5.jar",
+      "sha512": "8dea3f4489e77958b59bb733e77d6ff082ca1b5487e1ee42bb2993de8ade4d8c124dfdfdb59a71ce0df43e8419dad6c1aee0aea46c81f2679ff1aacf9b59e91a",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.6"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.6.jar",
+      "sha512": "b4963a9e38904739fe522251758711f83e72471daa42fd307d24f2a36305ea7b1bc11c146031c5167a8897c89efbcf5e1deedd9eaaab4a0f4fc153ce75077a1a",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.7"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.7.jar",
+      "sha512": "840aa4b368559095653dbe6471eea3f7501ed2f3bfaa1256466ddfc75dcbc28ee16136e61c012d68edd9ba278ee9f4930ff7970b2efcb2c1621ac52f9ff17938",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.8"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.8.jar",
+      "sha512": "ca0d15d9dc84ff7f9ea3c16a1061aad5a8e70368c2720bcb1b3cbae6b7fde07de18c5605a610f09974b84c50f5c3b7cb674238d28c12c8111ebce5b3b9d782cd",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "26.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc26.3.jar",
+      "sha512": "a916031ffdd09e1dd88300bdfd6f205a70171e8a86f3306cb20aeed15cd8b4a98ebaa360078499a08918cda856bf3afd82a906a1050470a5e37accf6d9cf35ad",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "26.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc26.2.jar",
+      "sha512": "8ecc8ffe2f75a2680fc1b9a22ba5acd51430dedbfeca7117107ec5632ead6fea1e6cd0de0918a1f982cbdf82b227dcb19fd7aff5cd5e79509a6584c58534a326",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "26.1.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc26.1.2.jar",
+      "sha512": "74845ee5ada41d6cf85a14088a1068108882fe3262c3f4179a7d31de33c48b0c2b9f3640743e3a170aef044161d8d0523daf633c7f7650c9ab139c87b70462b0",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "26.1.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc26.1.1.jar",
+      "sha512": "769850bb09365a37aa2acb3f21dbce0ee57687d550dc13dc2074111ca507e8595ec1466a2a6b482f7d58ab5d658fe6795ce9359215c0b09ab878e2b8eb0010a9",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "26.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc26.1.jar",
+      "sha512": "78197a9c5e79fa016b4d6c2dd83f2661728be1e1a1ff663dae74dc98267110217469af482656225f9d80ad228f37152768bebf518f220d3e707c8db3b440c80b",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.10"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.10.jar",
+      "sha512": "94dcb66ed33d334dcc130ae978ac626cafc71779ed72901ff67f2a43b61bd490f896d5f2fadb503373f0e13f43c0936faa30e6d2a155b327c8ed6903e1ad980b",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
+    {
+      "version": "0.14.0",
+      "minecraft": [
+        "1.21.9"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.14.0/shard-0.14.0-mc1.21.9.jar",
+      "sha512": "d3545c82095f2ae863f7b07362b02fb9591f8b8bbdad0085acdf7dccf00a4a979b1258cd836c5250464514f3ff3d090de4c9b093c9c2e671a193777eb0b3d193",
+      "changelog": "## 0.14.0\n- New mod menu: a sidebar with search, favorites, enabled mods and every category.\n- Mods are bigger cards, two per row, with their switch, what they do, their key and a Settings link; filter by All, Enabled or Off.\n- A mod's settings open as a full page with its settings in boxes side by side.",
+      "releasedAt": "2026-10-10T08:11:57Z"
+    },
     {
       "version": "0.13.1",
       "minecraft": [
