@@ -1,6 +1,193 @@
 {
-  "latest": "0.10.0",
+  "latest": "0.11.0",
   "builds": [
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.11.jar",
+      "sha512": "d702a539ee752124fd34e85a27b188e87fbd6301ce446e311f5a81265731bfe76a32f53d77eec7294d957b65585e8061c4e4aaec4416ff4f35539d847047e2e0",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.jar",
+      "sha512": "1dce2a262be86de0f351c48e36c9c905db3eb9a18fcda2299b4628ed2ab4a01bd083d2bd6c27373492526da6a00075edb9f670384fd711d937a7e92352519274",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.1.jar",
+      "sha512": "5a38dff69c14abec05cb8b1a5cf2e244d36bf600b9a3a11f599ab2ba57adbdde172a9952fdd615ce15cad4d3ec9a90af35a2caeef6f2ffeb7b857d190a732b1f",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.2.jar",
+      "sha512": "38aea61cda4057d162ac0a32b8640471114d4d44d5bf4ab2059efa6e687a046e65f17d59ad21d9716a63f036af31049d5aa246701c186cc77c6ddca6185880b5",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.3.jar",
+      "sha512": "4a95b924d2acfe775507b9410c3578eb3a51674468411c003a5cd4183a68125ddd4ae0fc20370069a9626e852b656d0aff920ce9a4dd46e74091ac2f2ff10d87",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.4"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.4.jar",
+      "sha512": "be230f58c10e137d850b5e304f369c8de0601abad38c09433ad6b15f4e78b1497aa516879ee8cac8fe4f417e904b04e58011046192ba33d8ef61c9434997cf6c",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.5"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.5.jar",
+      "sha512": "75e9177948815d564648a0c427cd85984435e8c482053d992484ef39313be60e9cf4cc8da0e48f4bba00f58add5f2981cce08683f6f4202ca7b6d467c2f88945",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.6"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.6.jar",
+      "sha512": "cc46a4a5673163ec9be7ded911adf4a3d155c7a01983c67b43e4e519d304b47bfdc666b7639f3e9fcec671ad739cf7d41a8bb42e0a447d5698c355d8e08dd8ff",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.7"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.7.jar",
+      "sha512": "aeb47676f7933c8c1e15189685db62f9b7ef5e8b1c06317e7e52563552330f682df3937fc132b73ea234457bba9096b8ef42a5382aca16f68a844c7f6a7ad31f",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.8"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.8.jar",
+      "sha512": "01a5c869602cfce9f42df93f4b03f26be5694818fa075e43ee27ee29e1089b8c3b8bc23302a5d37412fc6156329cbb7fc3ce20e3ff5be35d6d7c408d6f880155",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "26.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc26.3.jar",
+      "sha512": "c340a41913cf0d15a052dedd7167804b1dec98e4e661cfa8763da9e6c3c97397c212896c372c4ce23759a231a3cdb41d1d214247ca305e615b742f186ea61b49",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "26.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc26.2.jar",
+      "sha512": "84ca70cb5a58376bba116d6c0007be44dece7928f3775fd823e0607def83ca4fefe35622f8c20a05464e2f39aae6c3b07d63aae6a5395488f3aef6bbf17debd9",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "26.1.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc26.1.2.jar",
+      "sha512": "ab69965d1ef5977e2423faf432781ecec5900196b052bbfe67ccce3ad9ef8c728edb331bd8d0ef07aa64be79247b3289a9eda4fc783a7b3538f9a986dda43cc1",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "26.1.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc26.1.1.jar",
+      "sha512": "533611d773b38f817107cf4b80ac4058c6be663fc0f3a38ed27ce3ef023497e6b2cebe50937f1000942f6e3b0fe6067d1565048951fcde494eb842dd80add30d",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "26.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc26.1.jar",
+      "sha512": "5718ed1a180532d069ded9a90a2b2b962e74ff53276b531a2546705fa92e215adaad538c2d1888a3fa6da763ee213d6ed880cb313ed37441a5d753d82d95b15b",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.10"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.10.jar",
+      "sha512": "0d42b1f10870ed3325348bbbcc4e831a9c61e4c28547b005785a0bbe0b04169e9104bf623384560aa3fe2642dfcf24433f88955200f53d61705a024bb1c6c602",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
+    {
+      "version": "0.11.0",
+      "minecraft": [
+        "1.21.9"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.11.0/shard-0.11.0-mc1.21.9.jar",
+      "sha512": "db770e7355e92683597f362a37bb11fd87b0a22031ba11e1ef886f60af3a19dd8ba71842e32026c82190196910e02cdac7c0a5efc4c470019fe5e9f772e845ed",
+      "changelog": "## 0.11.0\n- Change your cosmetics in game: the Cosmetics tab shows what you wear and every cosmetic with Equip / Take off.\n- The Shard menu always opens on Mods.\n- Tokens are now called Shards; you can also buy Shards in Shard Launcher's Store.\n- Fixed: the game crashed when the pointer rested on a two- or three-option switch in the Shard menu.",
+      "releasedAt": "2026-10-10T04:13:16Z"
+    },
     {
       "version": "0.10.0",
       "minecraft": [
