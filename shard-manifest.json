@@ -1,6 +1,193 @@
 {
-  "latest": "0.11.0",
+  "latest": "0.12.0",
   "builds": [
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.11.jar",
+      "sha512": "72163da77fc1b7014ff220a722bdf8da7edf01f1866306a5ca4dfb513455166d4370da9789405675d9c3c54c6f12903fcf761f52b324927a2efac131f30a339d",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.jar",
+      "sha512": "7ce435dfd6b89d6c7fa9f51f4713ef3856d90bffebd181d97d7c772f9dc28afa68dc157d8c5137fddfb16224017f179626687f9a5e11fbf7b86e65020a477404",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.1.jar",
+      "sha512": "33454bb32efb6a65eba781faacdb837cc218cab66bb57acb2cd1aa383688e12a057e221cabb91788fa42c30d6416a215ee81d9066f650c9d5d5833408a80cf26",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.2.jar",
+      "sha512": "b47c9d35a45239649a3286d8774a7294bf5102732081317a939f66c1a401bbb60073268b27614e2b192fec26b6b5fedb8c55a121d804b287f5ed76be30acb11a",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.3.jar",
+      "sha512": "2a9505749fbb3b1c8b43f6044094ab73f7706bc71aaf3e2fde45a55c39b535b0beff746261f20026e57d836e56654dee4527cfa5fcbff88afc893a681268cc30",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.4"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.4.jar",
+      "sha512": "d5160bb8353bc3c80e4b8d8ba6b4e0a82c27cecadd01cc4da4e23f4ab0c11921ead4e6aa711fc6765580c6193dc9308092b61c10bfb8bdad8f20bb3ca2e69804",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.5"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.5.jar",
+      "sha512": "c2c3a323347b5ba37744b72acee75eeb0672661cec35c473cff116fe65442bce883e87c9b17eb7702dee7a495e7d55ff448d945c951a1c04449a662320a7fbb3",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.6"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.6.jar",
+      "sha512": "f89e8700e92478a0e9add8405e0b879494ba5cfce89235e75d1e4e0109fac8d36d75ca3a6a381cf850dcb0fff4efbbb007b2133dcac1e038607920732132079c",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.7"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.7.jar",
+      "sha512": "e1a71fddde8052584c4b01203c2fb54162a7c71cf6bb939c9074cddcb31d1c5a045f0439dfd7f53ba11b0efe783efeda6cb4dad5384350c194208d36809ef14e",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.8"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.8.jar",
+      "sha512": "4910b1bdfa16b0e7b2a4d9ce03b9e8f87ada30bf89ee48f6ebfd901c72485bdbb4b42fda7f1eb9f8b1d897da0eec1e2b67946e2a26c7c046bb96a2808d7e31ee",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "26.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc26.3.jar",
+      "sha512": "d4a94ed32325339414ded49ccfcd79d94d046f0f04799f9996092e673316c1f1458cb8f1902ee062e247f458e88081bad4a2d54af6b40d69944170d60a5ba999",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "26.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc26.2.jar",
+      "sha512": "1bb0bef865ef2d34dd1e8c7523d09697222f8d1f0b018803ce3926ccbc1e8ec03aa0c69587a0d9b15370e603c6426fb0d5dd7a5e4891efe96ed4cced2a89ca1e",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "26.1.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc26.1.2.jar",
+      "sha512": "43cfb6489bcf3fb157930c7bdac4909a39d2167601fe11be44245cf0e534140e2ad91f82e5445fec82b122b2c5a557f2909ce7d12661c95c6d7ff5b378fa6537",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "26.1.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc26.1.1.jar",
+      "sha512": "7698e94cdfd8911851b3d80cbbc4aaee53b78e0b29ed1195646410fc7da41adb7b03f5245aa2039739450817e2f9b5a7e412572922102b32f2bf016281d97324",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "26.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc26.1.jar",
+      "sha512": "3b926000df1dfe6cce725372f01f8c1451261b49992a7e102d8d40685dd52373ea302793ecd65c682d1adddfb3745df310eeda3a04503b840e0c29f47b83fe97",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.10"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.10.jar",
+      "sha512": "b57003449673ed11208285a8d60e5638e510594d07592386715401b5c807cdf71e367bc3043f63a1e70bb43ee559af13a8d6c3f7c0644d176c98168392aa0d15",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
+    {
+      "version": "0.12.0",
+      "minecraft": [
+        "1.21.9"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.12.0/shard-0.12.0-mc1.21.9.jar",
+      "sha512": "06b90dfafaf0999b28f3c7fd1c81254a84b797a5a336f815e6359666178c8aab7895d7a865831414e859b732599946d9415c5090d91af49cd923ef6c3e034fb7",
+      "changelog": "## 0.12.0\n- New title screen and server list in Shard Launcher's look (its crystal backdrop, logo and colours).\n- Jump back in: one click rejoins the last server you played on.\n- Server list: favourites, search (Ctrl+F), hover buttons to move, edit or delete, and the address shown for unnamed servers.\n- Settings → Menus → Minecraft background brings the world back behind the menus.\n- Fixed: faint highlights were missing on Minecraft 1.21 and 1.21.1.",
+      "releasedAt": "2026-10-10T04:26:59Z"
+    },
     {
       "version": "0.11.0",
       "minecraft": [
