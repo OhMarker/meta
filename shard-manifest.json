@@ -1,6 +1,193 @@
 {
-  "latest": "0.13.0",
+  "latest": "0.13.1",
   "builds": [
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.11.jar",
+      "sha512": "757f43537591d35bbe4dfd0898b9782b6a78b8161b67347d00450f86dffbac44cb279aed8a2f28cfdeaaa097f202e9711c2b5a3a4c594bbc579846ff6fac1b98",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.jar",
+      "sha512": "2291356fbaad74174ebd36a73945b1f415581f2fdf9ea33176ffba64f8b9af4c4a82beba28269c95f9c6f27cc27cc3980f5a06b3e7c0cddf55c911afac4cd58f",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.1.jar",
+      "sha512": "64bed5876cce547ccd8b0c9e3c92251f2c2248bb571879fa6febc249694bbd33feebdf58ad9f7f612d244337ece6955b543fa1555edd6daad0bcf07de766fd3b",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.2.jar",
+      "sha512": "15445034ca53bce4f47376b3223f7effeb0e4288e863a2d2e59f0f7ce1442db9018d318af6f3ef0f3de0c394ba6b78e9cf6cc99900ad8405321dc4396d54af76",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.3.jar",
+      "sha512": "184c806c78b4edc74031ea69d3e4bf7046f751d3d6c53007b91bc405ea8aeae2f05cd89428bbcc5ea857c63f04d4198744d89ceb4c6fdce743dbe866edf7c755",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.4"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.4.jar",
+      "sha512": "31f75e945e7040add85694583d6d4c9bbaa92325d616375c0fe3ecbef84922b4e5d709ca5d7af69d8ee54a3b33b672cd647338c0afb03272578bf0bcb6a304ba",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.5"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.5.jar",
+      "sha512": "3304fddcfa3747944322e9610ac297f1c16be9805075061b38ccc5af7f472d89e62a39c06bb61611ebefe7ed2f9b1dd59457e6576857374cb5320b2b41181ee5",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.6"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.6.jar",
+      "sha512": "e24421be27e226375d7f7828bb34757b3686d9945a58481a2fdd7efd2f9d740222ff66755f9769d2d24a347bd054724a4b0c6d566b8ed972eb2504dedf5320c4",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.7"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.7.jar",
+      "sha512": "40973dabfa2b5483106bb5e82411fb00006695362757b56fe6de09b9ca6687766a31f8fb99b49939313b6a89d7dabbf5c54fab0eb1af19b0b98bb27df5d91d85",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.8"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.8.jar",
+      "sha512": "60c4f88e8629df657ab87f6e67bb57568fec3000e4c117c2ec9b0af8f3e3a7016be5187b4fd345e5b1ced8f3c7f5bdd929c1a43cee0573feb8b312787ce69264",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "26.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc26.3.jar",
+      "sha512": "4882a5d31ee7da42557403361b4755c99ccb8c69faa24c0711487fd34e33ece241d5b81669a9d67e9220e98e8a7c2015e0580515f3152363c2df29f0356ce20e",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "26.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc26.2.jar",
+      "sha512": "36edf000b9f764d8f35719c5c20c4c38270a3bcbb513b694251c74283fda12438a810c10b6e45a24bc1a143d251ba4ddb90814e98c74278d36e41bf49c555436",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "26.1.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc26.1.2.jar",
+      "sha512": "4d177fda4faee7af53af3f28015b541dc5ac0a58e3fdb9fe0e2f3aab627c2d2aca57a3b8c009d62201f45397f7a0c1ec33341921b6fd5bf999c6d8172b681c18",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "26.1.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc26.1.1.jar",
+      "sha512": "d8a45d7c8748d0b288f9300e1db632daf2fe2cd68080ea83af38db5c18d68a1661fe23373c246e155ff1a4c987003d525e74337b6a75eda89f1cee52b93078e7",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "26.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc26.1.jar",
+      "sha512": "dbf6039924074da41b24a7e30449f278767efcdca2b9e2a5e9b9b5cc7d264ab58498a992d7adca825c9c1c397ab4f9471ab4d20783c67de67b821a319d562632",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.10"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.10.jar",
+      "sha512": "7f1a891acf0df5c39dbd62fda79ce9c76d6222598fd1f0e8f710742f854e23b4576746e82d868a9e0375cc8441b4ed832cca34f6d11479e2a2d86744905b3d17",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
+    {
+      "version": "0.13.1",
+      "minecraft": [
+        "1.21.9"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.1/shard-0.13.1-mc1.21.9.jar",
+      "sha512": "ef64ebb5200889b3b19031f5163d4d2f79c92dd654c223d67ec9a66afb49de77da1145709144e5620ae6d6f6f2d0411750f82b301fdcbf3e046c074385b68f5a",
+      "changelog": "## 0.13.1\n- Fixed: backing out of Create World showed Minecraft's old title screen instead of Shard's.",
+      "releasedAt": "2026-10-10T07:48:47Z"
+    },
     {
       "version": "0.13.0",
       "minecraft": [
