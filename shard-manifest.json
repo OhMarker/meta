@@ -1,6 +1,193 @@
 {
-  "latest": "0.12.0",
+  "latest": "0.13.0",
   "builds": [
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.11"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.11.jar",
+      "sha512": "c6371abb44a243e72d9c0350c14e330392151789991bd2f879c29debd0ae8f8b9ed90ad77af2ab0b10665fd7712fe739622d7454cb3ae8cbb39e59e5019daf7a",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.jar",
+      "sha512": "36c2ddba26d69ee0284f01b8daa8b8c04bc9891f5cbcd37ec863918bdf069e37a321ef2c1e7e130845c47ff6101ce11c4f2f9cafc0c7f0bff12c1fd4a7cbaae6",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.1.jar",
+      "sha512": "9d9779be2bd0914009ea85a0df565dae892a6f43dc53b8c7324046004f092aa8f3e619e51ec9500120a8cabd1d5c2b39d110e542e933a0f225f55d707a31bff5",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.2.jar",
+      "sha512": "ea83976307ee864059ab02c03c3ec437eb01036df38a0ae61e14681bebd31ca8993003fa722150ad0b282dac49ebcb4bfec28bbd0f49f394c9ae6edfbf73161e",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.3.jar",
+      "sha512": "8c01570d84de874901fbb0b5b8b130f7e436696ca0e5134a5b671abdff82a6ce4756148604e8c3727b20c01ec39e247b8e7cb43a04cad10a5253d7e1e12aeaa3",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.4"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.4.jar",
+      "sha512": "cc1374bc2fa8b67c10c0e136aa74ee82052d0637104d29c5ab8892d335932336df9e318738c848f60778cf7acdf324f4a69a15be590030bf9c1cb92ce3bed793",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.5"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.5.jar",
+      "sha512": "2fbee44a425657a974701302ce132a7e318f97890af3ed1f503d2ce972433464b2ea46e918e8df1bbb53920622402d42db6f82a597eff1f17093aadb868d3bc1",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.6"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.6.jar",
+      "sha512": "ad3651780eeb8911c76222db46f5dbcdf2aed32413bd74c6370cdc67f3078809d7652109a39060f7d800cf287b49cfbfee94b56b9f0d4e5ec80a538988f5c6f9",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.7"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.7.jar",
+      "sha512": "1436e837a2b51837a4b6b58f7d91487476a6287394fc23b71d8deb6b57831cb54a7682eb8eb20c37a5aafa126ea40eb5a85fea0770f5307ae24f1ef4d3276bc3",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.8"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.8.jar",
+      "sha512": "f12e36cddd89e29b53ad1ca2d9e15dfb696780cdfbdbbffa1aebf00d886d7c21464685dae0f393394f79d2203dce690cac5e03f664b61af9876fd85100b6ecb7",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "26.3"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc26.3.jar",
+      "sha512": "207bbbc03d270dd49c6acee459acc021bf106b26b3a3c4b1e167973e4b02a0df677573cacf3de5698faed33586326ece0d52046047baaab5d3cdd3741f08cc90",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "26.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc26.2.jar",
+      "sha512": "c726cc785b0150d0d3da42a77b20f884d1697b09a2412c1ad6b53e4a95bdbe63bb4de51b865cfefebbe4622db5569b88d5bd7aac020d30799653a4e60b7209c8",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "26.1.2"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc26.1.2.jar",
+      "sha512": "eede230c52a0f2054b05c54cb3d69b0912a488ac85599fcd6fef1bf55d5f06961b343fe58a5dbdfbf76a448c82964ef76fd54099d7f341d74efa22e28889919e",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "26.1.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc26.1.1.jar",
+      "sha512": "bd9cb1e29f994a934341f4313c4d487724d6b7f730ede57144b9beeb24df6c752b02f78a83f64239015b09aa7c3604cf9d72d5f2f22b16489b0905c7523d2dc0",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "26.1"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc26.1.jar",
+      "sha512": "3389a0df66433bfabe735d4a835367bd26283acd4cc4aac0cc603594be7a72c75eede45b456fdc7eece0619bc3b492751e0de5a8e44ff97d11f8efa5b8944da9",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.10"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.10.jar",
+      "sha512": "0c6adac125a06bc42c9b756444d6b3b724cbb2a36505724a12f62f0128213523137fe184c07762427ce91d05bec4ad1101e9f7ffa58b12f944f2d2d874855e09",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
+    {
+      "version": "0.13.0",
+      "minecraft": [
+        "1.21.9"
+      ],
+      "fabricLoader": ">=0.19.0",
+      "url": "https://github.com/OhMarker/shard-client/releases/download/v0.13.0/shard-0.13.0-mc1.21.9.jar",
+      "sha512": "90792051ac22d19788d982578d852ea8c17090eef42222edb359fd1fd80939687ac90593d23b4904e871b5bbbbb821ca0606a2948d61b843a38bc3a7bd1fac57",
+      "changelog": "## 0.13.0\n- Singleplayer is now the main button on the title screen, with Multiplayer under it.\n- Press S for Singleplayer or M for Multiplayer on the title screen.\n- Jump back in shows how many people are playing.\n- Server list: a bar under each player count shows how full the server is.",
+      "releasedAt": "2026-10-10T07:33:12Z"
+    },
     {
       "version": "0.12.0",
       "minecraft": [
