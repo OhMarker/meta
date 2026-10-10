@@ -11,7 +11,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-ohmarker.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "A ringed moon over a violet night sky, with OHMARKER in glowing letters. 4K texture. 1000 Shard tokens.",
+      "description": "A ringed moon over a violet night sky, with OHMARKER in glowing letters. 4K texture.",
       "availability": "locked",
       "tags": [
         "launch",
@@ -27,7 +27,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/shield-ohmarker.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "Your shield in game becomes a riveted steel frame with the ringed OhMarker moon. 1000 Shard tokens.",
+      "description": "Your shield in game becomes a riveted steel frame with the ringed OhMarker moon.",
       "availability": "locked",
       "tags": [
         "ohmarker-set",
@@ -43,7 +43,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/bandana-ohmarker.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "A night-sky bandana with moons and stars, tied over your head. 1000 Shard tokens.",
+      "description": "A night-sky bandana with moons and stars, tied over your head.",
       "availability": "locked",
       "tags": [
         "ohmarker-set"
@@ -58,7 +58,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/bundle-ohmarker.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "The OhMarker cape, shield and bandana together for 2000 Shard tokens (1000 each on their own).",
+      "description": "The OhMarker cape, shield and bandana together, for less than buying them one by one.",
       "availability": "locked",
       "tags": [
         "ohmarker-set",
@@ -79,7 +79,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-shard.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "A glowing cyan crystal over a dark field of floating shards, with shards on the inside and on elytra too. 4K texture. 1500 Shard tokens.",
+      "description": "A glowing cyan crystal over a dark field of floating shards, with shards on the inside and on elytra too. 4K texture.",
       "availability": "locked",
       "tags": [
         "shard",
@@ -95,7 +95,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-ocean.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "A full moon over rolling waves in a light-blue frame, with a calm night sea on the inside and on elytra. 4K texture. 1000 Shard tokens.",
+      "description": "A full moon over rolling waves in a light-blue frame, with a calm night sea on the inside and on elytra. 4K texture.",
       "availability": "locked",
       "tags": [
         "ocean",
@@ -111,7 +111,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/cape-halloween.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "A glowing jack-o'-lantern under a full moon, with bats over a purple night sky. 4K texture. 1200 Shard tokens.",
+      "description": "A glowing jack-o'-lantern under a full moon, with bats over a purple night sky. 4K texture.",
       "availability": "locked",
       "tags": [
         "halloween",
@@ -127,7 +127,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/shield-halloween.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "Your shield in game becomes a dark iron frame with glowing rivets around a jack-o'-lantern under the moon. 1000 Shard tokens.",
+      "description": "Your shield in game becomes a dark iron frame with glowing rivets around a jack-o'-lantern under the moon.",
       "availability": "locked",
       "tags": [
         "halloween",
@@ -143,7 +143,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/bandana-halloween.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "A purple night bandana with pumpkins, bats and crescent moons, tied over your head. 1000 Shard tokens.",
+      "description": "A purple night bandana with pumpkins, bats and crescent moons, tied over your head.",
       "availability": "locked",
       "tags": [
         "halloween",
@@ -159,7 +159,7 @@
       "previewUrl": "https://raw.githubusercontent.com/OhMarker/meta/main/cosmetics/previews/bundle-halloween.png",
       "animated": false,
       "author": "OhMarker",
-      "description": "The Halloween cape, shield and bandana for 2500 Shard tokens (3200 on their own).",
+      "description": "The Halloween cape, shield and bandana together, for less than buying them one by one.",
       "availability": "locked",
       "tags": [
         "halloween",
